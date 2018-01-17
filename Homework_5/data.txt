@@ -1,0 +1,8 @@
+Fiction;Abaham Lincoln Vampire Hunter;Grahame-Smith;Wiley;NY;978-0446563079;13.99;222
+Fiction;Frankenstein;Shelley;Prescott;GA;978-0486282114;7.99;321
+NonFiction;Life of Kennedy;Jones;Pearson;MT;758-29304566;12.90;biography
+Fiction;Dracula;Stoker;Addison;CA;978-0486411095;5.99;145
+Fiction;Curse of the Wolfman;Hageman;Wesley;MA;B00381AKHG;10.59;876
+NonFiction;How to Pass Java;Willis;Wiley;NY;444-395869790;1.99;technology
+Fiction;The Mummy;Rice;Addision;CA;978-0345369949;7.99;954
+NonFiction;History of Texas;Smith;Prescott;CA;123-683947687;9.75;history
